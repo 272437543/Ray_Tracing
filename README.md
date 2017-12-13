@@ -1,2 +1,4 @@
 # Ray_Tracing
-A Java Based Ray Tracing Graphical System
+Java Based Ray Tracing Graphical System
+Realize a 3D scene through ray tracing
+Author: Drake 
